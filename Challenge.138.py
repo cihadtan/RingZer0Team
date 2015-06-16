@@ -4,14 +4,14 @@ import requests, time, re, os, sys, lxml.html
 from requests.auth import HTTPBasicAuth
 
 #My Solution for RingZer0Team CTF "CAPTCHA I"
-#############################################
-#											#
-#											#
-#				Cihad TAN					#
-#			    tanovich					#
-#											#
-#											#
-#############################################
+#################################################
+#        					#
+#						#
+#		Cihad TAN			#
+#		tanovich			#
+#						#
+#						#
+#################################################
 
 def ch138():
 	s = requests.Session()
