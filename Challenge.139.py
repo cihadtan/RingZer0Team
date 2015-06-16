@@ -1,14 +1,14 @@
 #!/usr/bin/python2
 # -*- coding: utf-8 -*-
 #My Solution for RingZer0Team CTF "CAPTCHA I"
-#############################################
-#											#
-#											#
-#				Cihad TAN					#
-#			    tanovich					#
-#											#
-#											#
-#############################################
+#################################################
+#						#
+#						#
+#		Cihad TAN			#
+#		tanovich			#
+#						#
+#						#
+#################################################
 import BeautifulSoup, re
 from requests import Session
 from requests.auth import HTTPBasicAuth
