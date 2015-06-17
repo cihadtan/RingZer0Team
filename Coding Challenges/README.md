@@ -1,3 +1,3 @@
 # RingZer0Team
 
-Coding Challenges Solutions
+Coding Solutions
